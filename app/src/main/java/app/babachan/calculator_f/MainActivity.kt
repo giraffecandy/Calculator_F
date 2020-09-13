@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         val textView: TextView = findViewById(R.id.textView)
 
 
+
         textView.text = "0"
 
         fun yellow(){
